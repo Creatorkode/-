@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @👽
+- 👋 Hi, I’m @Ezequiel
 - 👀 I’m interested in ... you
 - 🌱 I’m currently learning ... team work
 <!---
